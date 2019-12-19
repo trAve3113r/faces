@@ -1,0 +1,13 @@
+Flask
+flask-login
+flask-admin
+flask-migrate
+#flask-bootstrap
+Flask-SQLAlchemy
+flask-debugtoolbar
+Flask-RESTful
+Flask-Mail
+Flask-WTF
+#psycopg2
+WTForms
+celery
